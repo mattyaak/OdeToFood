@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OdeToFood.Core
 {
-    public class Restaurants
+    public class Restaurant
     {
         public string Name { get; set; }
         public string Location { get; set; }
